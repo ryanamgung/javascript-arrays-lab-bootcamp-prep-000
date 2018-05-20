@@ -19,7 +19,12 @@ function destructivelyRemoveFirstKitten()
   
 }
 
-function destructivelyRemoveFirstKitten()
+function appendKitten(name)()
+{
+  
+}
+
+function appendKitten(name)()
 {
   
 }
