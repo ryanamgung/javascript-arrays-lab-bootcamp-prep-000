@@ -29,12 +29,12 @@ function prependKitten(name)()
   
 }
 
-function prependKitten(name)()
+function removeLastKitten()
 {
   
 }
 
-function prependKitten(name)()
+function removeLastKitten()
 {
   
 }
