@@ -1,7 +1,8 @@
-const app = "I don't do much."
+//const app = "I don't do much."
 function destructivelyAppendKitten(name)
 {
-  
+  kitten.push(name)
+  return kitten
 }
 
 function destructivelyPrependKitten(name)
@@ -34,7 +35,7 @@ function removeLastKitten()
   
 }
 
-function removeLastKitten()
+function removeFirstKitten()
 {
   
 }
