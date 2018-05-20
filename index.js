@@ -29,4 +29,12 @@ function prependKitten(name)()
   
 }
 
+function prependKitten(name)()
+{
+  
+}
 
+function prependKitten(name)()
+{
+  
+}
